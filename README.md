@@ -13,8 +13,8 @@ Scripting & Automation: Bash, Shell scripting, Python, Node.js
 🔧 When I’m not coding, I’m experimenting with Raspberry Pi or automating tasks. My home network is my playground—expect the unexpected! "It's a developer's world, fueled by my home network and a Raspberry Pi." 😎
 
 Here's how I feel when my code works on the first try:
-![Coding Meme] (https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM3OHQ0ZjFtdTNpaW15YW15dXVodGVua2FhcDRxOThwdWFuMXRzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.webp
-)
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM3OHQ0ZjFtdTNpaW15YW15dXVodGVua2FhcDRxOThwdWFuMXRzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.webp" >
 
 "When you push to production and nothing breaks!"
 
