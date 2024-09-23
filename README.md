@@ -13,14 +13,14 @@ Scripting & Automation: Bash, Shell scripting, Python, Node.js
 🔧 When I’m not coding, I’m experimenting with Raspberry Pi or automating tasks. My home network is my playground—expect the unexpected! "It's a developer's world, fueled by my home network and a Raspberry Pi." 😎
 
 Here's how I feel when my code works on the first try:
-![Coding Meme ((https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM3OHQ0ZjFtdTNpaW15YW15dXVodGVua2FhcDRxOThwdWFuMXRzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.webp
-))
+![Coding Meme] (https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM3OHQ0ZjFtdTNpaW15YW15dXVodGVua2FhcDRxOThwdWFuMXRzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.webp
+)
 
 "When you push to production and nothing breaks!"
 
 My Projects
 While most of my repositories are private due to paid work, you can check out some of my public projects like:
 
-[a Gangadwar Bhajnawali](https://www.gangadwar.in) : A Bhajan lyrics app with vocal versions, built using React, Spring, Ionic, and MySQL.
+[Gangadwar Bhajnawali](https://www.gangadwar.in) : A Bhajan lyrics app with vocal versions, built using React, Spring, Ionic, and MySQL.
 
 I’m always open to new ideas and collaborations, so feel free to connect if you’d like to work together! 
