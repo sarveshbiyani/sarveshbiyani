@@ -2,7 +2,7 @@
 About Me<br />
 👋 Hey! I’m a software developer with a passion for building scalable, efficient solutions across multiple platforms.<br />
 <br />
-💡 Key Skills<br />
+💡 Key Skills<br /><br />
 Backend Development: Java, Spring, Solr, PHP<br />
 Frontend Development: React (Web), HTML5, CSS3, JavaScript<br />
 Mobile Development: Android (Java/Kotlin), Ionic<br />
@@ -18,10 +18,10 @@ Here's how I feel when my code works on the first try:<br />
 <br />
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM3OHQ0ZjFtdTNpaW15YW15dXVodGVua2FhcDRxOThwdWFuMXRzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.webp" >
 <br />
-"When you push to production and nothing breaks!"
+<b>"When you push to production and nothing breaks!"</b>
 <br />
 My Projects<br />
-While most of my repositories are private due to paid work, you can check out some of my public projects like:<br />
+While most of my repositories are private due to paid work, you can check out some of my passionate projects like:<br />
 <br />
 [Gangadwar Bhajnawali](https://www.gangadwar.in) : A Bhajan lyrics app with vocal versions, built using React, Spring, Ionic, and MySQL.<br />
 <br /><br />
