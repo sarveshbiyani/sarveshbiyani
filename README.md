@@ -1,6 +1,6 @@
-💻 Welcome to My GitHub!<br />
+💻 Welcome to My GitHub!<br /><br />
 About Me<br />
-👋 Hey! I’m a software developer with a passion for building scalable, efficient solutions across multiple platforms. My expertise includes:<br />
+👋 Hey! I’m a software developer with a passion for building scalable, efficient solutions across multiple platforms.<br />
 <br />
 💡 Key Skills<br />
 Backend Development: Java, Spring, Solr, PHP<br />
